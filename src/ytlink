@@ -1,1 +1,5 @@
+npm run dev
+
+npm run dev -- --host
+
 https://youtu.be/b1h-wu-oDk8?t=2275
